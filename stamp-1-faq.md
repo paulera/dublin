@@ -1,8 +1,10 @@
-# IT employment FAQ #
+# Stamp 1 FAQ #
+
+_DISCLAIMER: Compilation made by myself based on questions presented by friends and people that are applying for a Stamp 1 and asked for help. I take no responsibility for the information contained here and it is your job to seek sources and **make sure you know** your stuff all right._
 
 ## Who pays the fee? ##
 
-Anyone (company, candidate or agent).
+Anyone: the company, the candidate or the agent.
 
 > The fee for an employment permit must be paid by the applicant i.e. the employer/employee/connected person or contractor, or their authorised agent.
 >
@@ -34,7 +36,7 @@ It is necessary to stay with the initial employer 1 year. Before that, a new per
 
 ## Does moving to a new job during the Stamp 1 affects the 2 years time counting to apply for a Stamp 4? ##
 
-No. Only during the first year of Stamp 1 you must stay with the same employer, but after that period you can move to another job without affecting the 24 months countdown to be eligible for a Stamp 4. It is necessary to return the current Working Permit documents and reapply with the new company.
+No if you do after 12 months. Only during the first year of Stamp 1 you must stay with the same employer, but after that period you can move to another job without affecting the 24 months countdown to be eligible for a Stamp 4. It is necessary to return the current Working Permit documents and reapply with the new company.
 
 > A feature of the Critical Skills Employment Permit and the Green Card Employment Permit is that holders whose employment permit and immigration registration card are due to expire will not be required to apply for a renewal permit through the Department of Jobs, Enterprise and Innovation. Instead Critical Skills Employment Permit and Green Card Employment Permit holders can apply for a support letter from the Department of Jobs, Enterprise and Innovation and then present themselves for registration renewal at the Garda National Immigration Bureau with this support letter, their existing Critical Skills Employment Permit or Green Card Employment Permit, passport and their Garda Naturalisation Immigration Bureau card.
 >
